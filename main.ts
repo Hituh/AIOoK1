@@ -1,5 +1,5 @@
 //Zad 1 Zliczanie samoglosek//
-var word = "Hello World";
+var word = "string";
 function isSam(letter) : boolean {
     if (letter == "a" || letter == "e" || letter == "o" || letter == "i" || letter == "u" || letter == "y")  
     return true;
